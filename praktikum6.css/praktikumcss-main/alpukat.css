@@ -1,0 +1,104 @@
+body {
+    background-color: #c7ed75;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    justify-content: center;
+    display: flex;
+    color: #5a700c;
+}
+
+.p {
+    justify-content: center;
+    display: flex;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+
+p{
+    color: #aa0ca0;
+}
+
+.a {
+    display: flex;
+    justify-content: center;
+
+}
+.foto {
+    display: flex;
+    justify-content: center;
+}
+
+.foto img {
+    width: 400px;
+}
+
+
+.promo h2 {
+    text-align: center;
+    color: #c26e0e;
+}
+
+.promo h3 {
+    text-align: center;
+    color: #c26e0e;
+}
+
+.cod {
+    display: flex;  
+    justify-content: center; 
+}
+.cod p {
+
+    color: rgb(230, 230, 13);
+    background-color: rgb(36, 114, 8);
+}
+
+.tombol {
+    text-align: center;
+}
+
+.tombol button{
+    color: #11ece5;
+    background-color: rgb(85, 3, 200);
+}
+
+.z {
+    background-color: brown;
+}
+
+mark {
+    background-color: brown;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.z li {
+    color: wheat;;
+    display: flex;
+}
+
+li:nth-child(even) {
+    justify-content: center;
+}
+
+table {
+    width: 100%;
+    margin: 20px;
+    border: 2px solid green;
+  }
+  
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+  
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+  
+tr:nth-child(even) {background-color: #f2f2f2;}

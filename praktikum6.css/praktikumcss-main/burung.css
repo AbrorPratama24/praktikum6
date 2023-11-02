@@ -1,0 +1,74 @@
+body {
+    background-color: beige;
+}
+
+#header {
+    background-color: burlywood;
+    padding: 5px;
+}
+#header h1 {
+    text-align: center;
+    color: blueviolet;
+}
+
+#header blockquote {
+    background-color: yellow;
+    text-align: center;
+    font-size: 18px;
+}
+
+li {
+    display: flex;
+}
+
+li a {
+    text-decoration: none;
+    margin: 5px;
+    color: blue;
+    font-size: 18px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+.gambar {
+    justify-content: center;
+    display: flex;
+}
+
+#profil h3 {
+    text-align: center;
+}
+#profil {
+    padding: 10px;
+}
+
+#beternak h3 {
+    text-align: center;
+}
+
+#beternak h4 {
+    padding-right: 50px;
+}
+
+.koleksi img {
+    width: 300px;
+    height: 300px;
+}
+
+.koleksi {
+    justify-content: center;
+    display: flex;
+}
+
+.promo {
+    text-align: center;
+}
+
+.promo li {
+    justify-content: center;
+}
+
+
